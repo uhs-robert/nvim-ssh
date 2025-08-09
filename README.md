@@ -1,9 +1,9 @@
 # 📡 sshfs.nvim
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Neovim](https://img.shields.io/badge/NeoVim-0.10+-57A143?logo=neovim)](https://neovim.io/)
-[![GitHub stars](https://img.shields.io/github/stars/uhs-robert/sshfs.nvim?style=social)](https://github.com/uhs-robert/sshfs.nvim/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/uhs-robert/sshfs.nvim)](https://github.com/uhs-robert/sshfs.nvim/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Neovim](https://img.shields.io/badge/NeoVim-0.10+-57A143?logo=neovim&style=for-the-badge)](https://neovim.io/)
+[![GitHub stars](https://img.shields.io/github/stars/uhs-robert/sshfs.nvim?style=for-the-badge)](https://github.com/uhs-robert/sshfs.nvim/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/uhs-robert/sshfs.nvim?style=for-the-badge)](https://github.com/uhs-robert/sshfs.nvim/issues)
 
 A minimal, fast **SSHFS** integration for **NeoVim** that **works with YOUR setup**. No forced dependencies. Use your preferred file picker, search tools, and workflow to edit remote files without leaving your editor.
 
